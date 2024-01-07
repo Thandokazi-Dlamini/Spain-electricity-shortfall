@@ -16,7 +16,7 @@ For a comprehensive view of the analysis, including data preprocessing, explorat
 
 [View the Jupyter Notebook](https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall/blob/main/Spain%20Electricity%20Shortfall%20Notebook.ipynb)
 
-This notebook includes detailed commentary on the methodology used, as well as visualizations that support the findings and recommendations for Spain’s energy sector.
+This notebook includes detailed commentary on the methodology used, as well as visualizations that support the findings and recommendations for Spain’s energy sector. It might take a while to load, please be patient.
 
 ## How to Use
 
@@ -27,8 +27,5 @@ To run the Jupyter Notebook and explore the analysis:
 3. Navigate to the notebook's directory and run `jupyter notebook` in your terminal.
 4. Open the `spain_energy_shortfall_analysis.ipynb` file in the Jupyter interface that opens in your web browser.
 
-## Conclusions and Recommendations
-
-The findings from our analysis suggest that ...
 
 
